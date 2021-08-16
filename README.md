@@ -7,5 +7,5 @@ Supported background execution of processes, IO redirection ( <, >, |), and exec
 
 Usage:
 
-1. make the file 
+1. make the Makefile 
 2. run Shell.out
